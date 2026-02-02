@@ -1,6 +1,45 @@
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Site Settings
 title: "Gin Galang"
-description: "DevOps Engineer · Full Stack Developer · AI Integration Specialist"
-show_downloads: false
+title_separator: "|"
+subtitle: "DevOps Engineer · Full Stack Developer · AI Integration Specialist"
+name: "Gin Galang"
+description: "Portfolio and technical projects"
+url: "https://shazam14.github.io"
+baseurl: "/gmbg"
+repository: "Shazam14/gmbg"
+
+# Site Author
+author:
+  name: "Gin Galang"
+  avatar: # Add your profile pic URL here if you have one
+  bio: "Versatile platform engineer specializing in Python, DevOps, and AI integration"
+  location: "Manila, Philippines"
+  email: "shazflicks@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/archimedes7"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/wgmbg"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Theme Settings
+minimal_mistakes_skin: "dark"

@@ -10,8 +10,6 @@ title: "Portfolio"
    > ^ <
 ```
 
-# Gin Galang
-
 **DevOps Engineer · Full Stack Developer · AI Integration Specialist**
 
 ---

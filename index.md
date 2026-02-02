@@ -39,23 +39,23 @@ Versatile platform engineer specializing in Python, DevOps, and AI integration. 
 ### Senior Python API Developer
 **WPP Media · Mar 2025 - Present**
 
-Led mission-critical releases across 15+ FastAPI/GraphQL microservices. Built features end-to-end while maintaining auth, reporting, and discovery APIs. Took ownership of multi-layer cache stack (Redi[...] 
+Led mission-critical releases across 15+ FastAPI/GraphQL microservices. Built features end-to-end while maintaining auth, reporting, and discovery APIs. Took ownership of multi-layer cache stack (Redis + MongoDB + Elasticsearch) and mentored teams through production incidents.
 
 ### DevOps Architect/Engineer
 **Audr.com · Jan 2024 - Mar 2025**
 
-Architected complete AWS cloud infrastructure from ground up with multi-account environments, IAM Identity Center, and security-first practices. Built CI/CD pipelines with GitHub Actions, implemented [...] 
-
+Architected complete AWS cloud infrastructure from ground up with multi-account environments, IAM Identity Center, and security-first practices. Built CI/CD pipelines with GitHub Actions, implemented Grafana/Prometheus monitoring, and integrated Auth0 authentication for real-time AI conversation platform.
 ### Full Stack Developer, DevOps, AI App Dev
+
 **Multiple Clients · Jan 2024 - Dec 2024**
 
-Led strategic planning, development, and deployment for Pasahero.PH, LucienLaw, Seven7Trades, LiboThai & Provision4. Specialized in AI integration (OpenAI/Ollama), cybersecurity (Wazuh), and full-stac[...]  
+Led strategic planning, development, and deployment for Pasahero.ph, LucienLaw, Seven7Trades, LiboThai & Provision4. Specialized in AI integration (OpenAI/Ollama), cybersecurity (Wazuh), and full-stack development across AWS, Azure, GCP.
 
 ### Full Stack Developer (Contract)
 **Plexus Australia · Jul 2023 - Dec 2023**  
 [Visit Plexus →](https://www.plexus.co/)
 
-Responsible for front-end integration of modular system for client applications in banking, finance, pensions and administration. Designed responsive interfaces using React.js and TypeScript, develope[...]  
+Responsible for front-end integration of modular system for client applications in banking, finance, pensions and administration. Designed responsive interfaces using React.js and TypeScript, developed server-side logic with Python Django, and spearheaded CI/CD processes using CircleCI.
 
 ### Senior Python Django Developer
 **Willis Towers Watson · Jul 2019 - Apr 2023**

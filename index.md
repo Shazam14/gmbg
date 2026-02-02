@@ -33,6 +33,12 @@ Architected complete AWS cloud infrastructure from ground up with multi-account 
 
 Led strategic planning, development, and deployment for Pasahero.ph, LucienLaw, Seven7Trades, LiboThai & Provision4. Specialized in AI integration (OpenAI/Ollama), cybersecurity (Wazuh), and full-stack development across AWS, Azure, GCP.
 
+### Full Stack Developer (Contract)
+**Plexus Australia · Jul 2023 - Dec 2023**  
+[Visit Plexus →](https://www.plexus.co/)
+
+Responsible for front-end integration of modular system for client applications in banking, finance, pensions and administration. Designed responsive interfaces using React.js and TypeScript, developed server-side logic with Python Django, and spearheaded CI/CD processes using CircleCI.
+
 ### Senior Python Django Developer
 **Willis Towers Watson · Jul 2019 - Apr 2023**
 
@@ -43,10 +49,12 @@ Developed and enhanced systems for banking, finance, and pensions administration
 ## Technical Projects
 
 ### Brand.AI
-**FastAPI · React · GCP · Next.js · Python** · 2025
+**FastAPI · React · GCP · Next.js · Python** · 2025  
+[Visit Brand.AI →](https://brand-ai.net/)
 
 ### Audr AI
-**FastAPI · React · AWS · Next.js · OpenAI** · 2024-2025
+**FastAPI · React · AWS · Next.js · OpenAI** · 2024-2025  
+[Visit Audr.com →](https://www.audr.com/)
 
 ### Pasahero.ph
 **React · TypeScript · AWS · Next.js** · 2024 · Philippines
@@ -63,11 +71,18 @@ Developed and enhanced systems for banking, finance, and pensions administration
 ### DangDang Shoppe
 **Inventory Management · ERP** · 2024 · Philippines
 
+### Learning Garden Montessori School
+**React · TypeScript · Python · Rasa AI Chatbot · Linux Cloud Server** · 2018-2025 · Philippines  
+[Visit LGMS →](https://www.learninggardenmontessori.ph)
+
+Built and maintained complete on-premise cloud infrastructure from scratch on Linux. Developed full-stack application with React/TypeScript frontend, Python backend, and integrated Rasa AI chatbot for student and parent support.
+
 ### SCFI Ecommerce
 **Python Django · React · React Native** · 2018-2019 · Philippines
 
 ### FEBC Radio App
-**React Native · Google Play** · 2018-2019 · Philippines
+**React Native · Google Play** · 2018-2019 · Philippines  
+[Visit FEBC →](https://febc.ph/)
 
 ### Ikode QR Reader & Ikona Cloud
 **Android · Java · Cloud API** · 2016-2017 · New Zealand

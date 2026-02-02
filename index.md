@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<pre style="font-family: monospace; white-space: pre; overflow-x: auto;">
+   /\_/\ 
+  ( o_o )つ
+   /   \  Gin Galang · DevOps · AI
+</pre>
+
 # Gin Galang
 
 **DevOps Engineer · Full Stack Developer · AI Integration Specialist**
@@ -21,23 +27,23 @@ Versatile platform engineer specializing in Python, DevOps, and AI integration. 
 ### Senior Python API Developer
 **WPP Media · Mar 2025 - Present**
 
-Led mission-critical releases across 15+ FastAPI/GraphQL microservices. Built features end-to-end while maintaining auth, reporting, and discovery APIs. Took ownership of multi-layer cache stack (Redis + MongoDB + Elasticsearch) and mentored teams through production incidents.
+Led mission-critical releases across 15+ FastAPI/GraphQL microservices. Built features end-to-end while maintaining auth, reporting, and discovery APIs. Took ownership of multi-layer cache stack (Redi[...] 
 
 ### DevOps Architect/Engineer
 **Audr.com · Jan 2024 - Mar 2025**
 
-Architected complete AWS cloud infrastructure from ground up with multi-account environments, IAM Identity Center, and security-first practices. Built CI/CD pipelines with GitHub Actions, implemented Grafana/Prometheus monitoring, and integrated Auth0 authentication for real-time AI conversation platform.
+Architected complete AWS cloud infrastructure from ground up with multi-account environments, IAM Identity Center, and security-first practices. Built CI/CD pipelines with GitHub Actions, implemented [...] 
 
 ### Full Stack Developer, DevOps, AI App Dev
 **Multiple Clients · Jan 2024 - Dec 2024**
 
-Led strategic planning, development, and deployment for Pasahero.ph, LucienLaw, Seven7Trades, LiboThai & Provision4. Specialized in AI integration (OpenAI/Ollama), cybersecurity (Wazuh), and full-stack development across AWS, Azure, GCP.
+Led strategic planning, development, and deployment for Pasahero.ph, LucienLaw, Seven7Trades, LiboThai & Provision4. Specialized in AI integration (OpenAI/Ollama), cybersecurity (Wazuh), and full-stac[...]  
 
 ### Full Stack Developer (Contract)
 **Plexus Australia · Jul 2023 - Dec 2023**  
 [Visit Plexus →](https://www.plexus.co/)
 
-Responsible for front-end integration of modular system for client applications in banking, finance, pensions and administration. Designed responsive interfaces using React.js and TypeScript, developed server-side logic with Python Django, and spearheaded CI/CD processes using CircleCI.
+Responsible for front-end integration of modular system for client applications in banking, finance, pensions and administration. Designed responsive interfaces using React.js and TypeScript, develope[...]  
 
 ### Senior Python Django Developer
 **Willis Towers Watson · Jul 2019 - Apr 2023**
@@ -75,7 +81,7 @@ Developed and enhanced systems for banking, finance, and pensions administration
 **React · TypeScript · Python · Rasa AI Chatbot · Linux Cloud Server** · 2018-2025 · Philippines  
 [Visit LGMS →](https://www.learninggardenmontessori.ph)
 
-Built and maintained complete on-premise cloud infrastructure from scratch on Linux. Developed full-stack application with React/TypeScript frontend, Python backend, and integrated Rasa AI chatbot for student and parent support.
+Built and maintained complete on-premise cloud infrastructure from scratch on Linux. Developed full-stack application with React/TypeScript frontend, Python backend, and integrated Rasa AI chatbot for[...]  
 
 ### SCFI Ecommerce
 **Python Django · React · React Native** · 2018-2019 · Philippines

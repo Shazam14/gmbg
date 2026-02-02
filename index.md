@@ -95,4 +95,4 @@ Python · Django · FastAPI · React · TypeScript · AWS · Azure · GCP · Kub
 
 ---
 
-© 2025 Gin Galang · Manila, Philippines
+© 2026 Gin Galang · Manila, Philippines

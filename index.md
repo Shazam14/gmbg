@@ -12,7 +12,7 @@ layout: default
 
 **DevOps Engineer · Full Stack Developer · AI Integration Specialist**
 
-[GitHub](https://github.com/archimedes7) · [LinkedIn](https://linkedin.com/in/wgmbg) · [Email](mailto:shazflicks@gmail.com)
+[GitHub (archimedes7)](https://github.com/archimedes7) · [GitHub (Shazam14)](https://github.com/Shazam14) · [LinkedIn](https://linkedin.com/in/wgmbg) · [Email](mailto:shazflicks@gmail.com)
 
 ---
 

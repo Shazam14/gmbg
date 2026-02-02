@@ -49,7 +49,7 @@ Architected complete AWS cloud infrastructure from ground up with multi-account 
 ### Full Stack Developer, DevOps, AI App Dev
 **Multiple Clients · Jan 2024 - Dec 2024**
 
-Led strategic planning, development, and deployment for Pasahero.ph, LucienLaw, Seven7Trades, LiboThai & Provision4. Specialized in AI integration (OpenAI/Ollama), cybersecurity (Wazuh), and full-stac[...]  
+Led strategic planning, development, and deployment for Pasahero.PH, LucienLaw, Seven7Trades, LiboThai & Provision4. Specialized in AI integration (OpenAI/Ollama), cybersecurity (Wazuh), and full-stac[...]  
 
 ### Full Stack Developer (Contract)
 **Plexus Australia · Jul 2023 - Dec 2023**  

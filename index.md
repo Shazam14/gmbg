@@ -1,30 +1,18 @@
 ---
-layout: default
+layout: single
+author_profile: true
+title: "Portfolio"
 ---
 
-<style>
-.ascii-desktop {font-family: monospace; white-space: pre; overflow-x: auto; display: block;}
-.ascii-mobile {font-family: monospace; display: none;}
-.contact-badges img{vertical-align:middle; margin-right:6px;}
-@media (max-width: 600px) {
-  .ascii-desktop { display: none; }
-  .ascii-mobile { display: block; }
-}
-</style>
-
-<pre class="ascii-desktop">
+```
    /\_/\ 
-  ( o_o )つ
-   /   \  Gin Galang · DevOps · AI
-</pre>
-
-<div class="ascii-mobile">[=^._.^=] Gin Galang · DevOps · AI</div>
+  ( o.o )
+   > ^ <
+```
 
 # Gin Galang
 
 **DevOps Engineer · Full Stack Developer · AI Integration Specialist**
-
-[![GitHub archimedes7](https://img.shields.io/badge/GitHub-archimedes7-181717?style=flat&logo=github)](https://github.com/archimedes7) · [![GitHub Shazam14](https://img.shields.io/badge/GitHub-Shazam14-181717?style=flat&logo=github)](https://github.com/Shazam14) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-wgmbg-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/wgmbg) · [![Email](https://img.shields.io/badge/Email-shazflicks@gmail.com-D14836?style=flat&logo=gmail)](mailto:shazflicks@gmail.com)
 
 ---
 
@@ -45,8 +33,8 @@ Led mission-critical releases across 15+ FastAPI/GraphQL microservices. Built fe
 **Audr.com · Jan 2024 - Mar 2025**
 
 Architected complete AWS cloud infrastructure from ground up with multi-account environments, IAM Identity Center, and security-first practices. Built CI/CD pipelines with GitHub Actions, implemented Grafana/Prometheus monitoring, and integrated Auth0 authentication for real-time AI conversation platform.
-### Full Stack Developer, DevOps, AI App Dev
 
+### Full Stack Developer, DevOps, AI App Dev
 **Multiple Clients · Jan 2024 - Dec 2024**
 
 Led strategic planning, development, and deployment for Pasahero.ph, LucienLaw, Seven7Trades, LiboThai & Provision4. Specialized in AI integration (OpenAI/Ollama), cybersecurity (Wazuh), and full-stack development across AWS, Azure, GCP.
@@ -93,7 +81,7 @@ Developed and enhanced systems for banking, finance, and pensions administration
 **React · TypeScript · Python · Rasa AI Chatbot · Linux Cloud Server** · 2018-2025 · Philippines  
 [Visit LGMS →](https://www.learninggardenmontessori.ph)
 
-Built and maintained complete on-premise cloud infrastructure from scratch on Linux. Developed full-stack application with React/TypeScript frontend, Python backend, and integrated Rasa AI chatbot for[...]  
+Built and maintained complete on-premise cloud infrastructure from scratch on Linux. Developed full-stack application with React/TypeScript frontend, Python backend, and integrated Rasa AI chatbot for student and parent support.
 
 ### SCFI Ecommerce
 **Python Django · React · React Native** · 2018-2019 · Philippines

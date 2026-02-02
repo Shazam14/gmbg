@@ -2,17 +2,29 @@
 layout: default
 ---
 
-<pre style="font-family: monospace; white-space: pre; overflow-x: auto;">
+<style>
+.ascii-desktop {font-family: monospace; white-space: pre; overflow-x: auto; display: block;}
+.ascii-mobile {font-family: monospace; display: none;}
+.contact-badges img{vertical-align:middle; margin-right:6px;}
+@media (max-width: 600px) {
+  .ascii-desktop { display: none; }
+  .ascii-mobile { display: block; }
+}
+</style>
+
+<pre class="ascii-desktop">
    /\_/\ 
   ( o_o )つ
    /   \  Gin Galang · DevOps · AI
 </pre>
 
+<div class="ascii-mobile">[=^._.^=] Gin Galang · DevOps · AI</div>
+
 # Gin Galang
 
 **DevOps Engineer · Full Stack Developer · AI Integration Specialist**
 
-[GitHub (archimedes7)](https://github.com/archimedes7) · [GitHub (Shazam14)](https://github.com/Shazam14) · [LinkedIn](https://linkedin.com/in/wgmbg) · [Email](mailto:shazflicks@gmail.com)
+[![GitHub archimedes7](https://img.shields.io/badge/GitHub-archimedes7-181717?style=flat&logo=github)](https://github.com/archimedes7) · [![GitHub Shazam14](https://img.shields.io/badge/GitHub-Shazam14-181717?style=flat&logo=github)](https://github.com/Shazam14) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-wgmbg-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/wgmbg) · [![Email](https://img.shields.io/badge/Email-shazflicks@gmail.com-D14836?style=flat&logo=gmail)](mailto:shazflicks@gmail.com)
 
 ---
 
